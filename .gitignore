@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# VS Code workspace settings
+.vscode/
+
+# Node / npm (if you ever use tools to generate diagrams)
+node_modules/
+
+# Python virtual environments (if you ever use scripts)
+venv/
+.env/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Backup files created by editors
+*~
+*.swp
+*.swo
+
+# Generated diagrams or exports (optional)
+*.png
+*.svg
+!.keep_diagrams   # allow a folder placeholder if needed
+
+# Ignore local notes
+notes-local/
