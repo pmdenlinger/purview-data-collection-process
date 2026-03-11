@@ -1,0 +1,1 @@
+This repository outlines the usage and use cases of Microsoft Purview for ediscovery.
